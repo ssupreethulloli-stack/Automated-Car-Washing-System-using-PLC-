@@ -1,1 +1,0 @@
-# Automated-Car-Washing-System-using-PLC-
