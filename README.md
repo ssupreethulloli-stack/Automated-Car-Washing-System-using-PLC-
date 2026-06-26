@@ -139,7 +139,7 @@ When the car reaches the exit sensor (%I0.7):
 (Working demonstration  Video 2026-06-26 at 9.23.04 PM.mp4)
 
 ---
-PLC-Based-Car-Wash-System
+ PLC-Based-Car-Wash-System
 │
 ├── README.md
 ├── Images
