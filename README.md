@@ -139,28 +139,7 @@ When the car reaches the exit sensor (%I0.7):
 (Working demonstration  Video 2026-06-26 at 9.23.04 PM.mp4)
 
 ---
- PLC-Based-Car-Wash-System
-│
-├── README.md
-├── LICENSE
-├── Images
-│   ├── system_architecture.png
-│   ├── ladder_logic_stage1.png
-│   ├── ladder_logic_stage2.png
-│   ├── plc_setup.jpg
-│   └── working_demo.gif
-│
-├── PLC Program
-│   ├── CarWash_Project.ap17
-│   └── LadderLogic.pdf
-│
-├── Documentation
-│   ├── Project_Report.pdf
-│   ├── Flowchart.pdf
-│   └── BlockDiagram.png
-│
-└── Video
-    └── Working_Demo.mp4
+
 ## Author
 
 Supreet Hulloli
